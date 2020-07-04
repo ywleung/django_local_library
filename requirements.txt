@@ -1,1 +1,1 @@
-Django-Heroku Python package
+django_heroku
